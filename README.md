@@ -5,3 +5,5 @@ Growth Mindset in software development means believing that you can improve your
 2. Learn from Mistakes: When I make coding errors, it's a chance to understand and improve. Don't be discouraged; be curious.
 3. Persistence Pays Off: Keep practicing and don't give up. Progress may be slow, but every small step forward is a win in the journey to becoming a better developer.
 
+_“A new idea comes suddenly and in a rather intuitive way, but intuition is nothing but the outcome of earlier intellectual experience.”_
+
