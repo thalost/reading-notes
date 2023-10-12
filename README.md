@@ -15,14 +15,14 @@ _Reading Notes_
 # Table of Contents
 
 + [Class102](102.md)
-+ [Learning Markdown](Learning_Markdown.md)
-+ [The Coders Computer](The_Coders_Computer.md)
-+ [Revisions and the Cloud](Revisions_and_the_Cloud.md)
-+ [HTML](HTML.md)
-+ [CSS](CSS.md)
-+ [JavaScript](JavaScript.md)
-+ [Programming with JavaScript](Programming_with_JavaScript.md)
-+ [Operators and Loops](Operators_and_Loops.md)
++ [Learning Markdown](https://github.com/thalost/reading-notes/blob/main/102-notes/Learning_Markdown.md)
++ [The Coders Computer](https://github.com/thalost/reading-notes/blob/main/102-notes/The_Coders_Computer.md)
++ [Revisions and the Cloud](https://github.com/thalost/reading-notes/blob/main/102-notes/Revisions_and_the_Cloud.md)
++ [HTML](https://github.com/thalost/reading-notes/blob/main/102-notes/HTML.md)
++ [CSS](https://github.com/thalost/reading-notes/blob/main/102-notes/CSS.md)
++ [JavaScript](https://github.com/thalost/reading-notes/blob/main/102-notes/JavaScript.md)
++ [Programming with JavaScript](https://github.com/thalost/reading-notes/blob/main/102-notes/Programming_with_JavaScript.md)
++ [Operators and Loops](https://github.com/thalost/reading-notes/blob/main/102-notes/Operators_and_Loops.md)
 
 
 
