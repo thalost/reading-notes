@@ -23,6 +23,8 @@ _Reading Notes_
 + [Programming with JavaScript](Programming_with_JavaScript.md)
 + [Operators and Loops](Operators_and_Loops.md)
 
+
+
 _“A new idea comes suddenly and in a rather intuitive way, but intuition is nothing but the outcome of earlier intellectual experience.”_
 
 _Albert Einstein_
