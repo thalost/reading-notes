@@ -12,8 +12,16 @@ Growth Mindset in software development means believing that you can improve your
 
 _Reading Notes_
 
-+ [Course 102](102/102.md)
-+ [Course 201](201/201.md)
+# Table of Contents
+
++ [Learning Markdown](Learning_Markdown.md)
++ [The Coders Computer](The_Coders_Computer.md)
++ [Revisions and the Cloud](Revisions_and_the_Cloud.md)
++ [HTML](HTML.md)
++ [CSS](CSS.md)
++ [JavaScript](JavaScript.md)
++ [Programming with JavaScript](Programming_with_JavaScript.md)
++ [Operators and Loops](Operators_and_Loops.md)
 
 _“A new idea comes suddenly and in a rather intuitive way, but intuition is nothing but the outcome of earlier intellectual experience.”_
 
