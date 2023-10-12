@@ -8,13 +8,11 @@ Growth Mindset in software development means believing that you can improve your
 
 
 
-### Table of Contents
-
 _Reading Notes_
 
 # Table of Contents
 
-##### Class 102
+##### Class 102 _Reading Notes_
 + [Learning Markdown](https://github.com/thalost/reading-notes/blob/main/102-notes/Learning_Markdown.md)
 + [The Coders Computer](https://github.com/thalost/reading-notes/blob/main/102-notes/The_Coders_Computer.md)
 + [Revisions and the Cloud](https://github.com/thalost/reading-notes/blob/main/102-notes/Revisions_and_the_Cloud.md)
