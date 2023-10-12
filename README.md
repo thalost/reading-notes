@@ -14,6 +14,7 @@ _Reading Notes_
 
 # Table of Contents
 
++ [Class102](102.md)
 + [Learning Markdown](Learning_Markdown.md)
 + [The Coders Computer](The_Coders_Computer.md)
 + [Revisions and the Cloud](Revisions_and_the_Cloud.md)
