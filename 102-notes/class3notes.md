@@ -1,38 +1,38 @@
-Class 3 notes
-## Class 1 Reading Notes
+
+## Class 3 Reading Notes
 
 ### Review Questions
 
-## 1. What is Markdown?
+## 1. What is Version Control??
 
 Answer:
 
-Markdown is a lightweight markup language that is widely used for formatting plain text documents. Is designed to be easy to read and write as plain text, while also allowing for easy conversion to HTML (Hypertext Markup Language).
+, is a system and practice that enables multiple people to collaboratively work on a project while keeping track of changes to the project's files and code over time. It provides a structured and organized way to manage and document the evolution of a project.
 
-## 2. Why do we use Markdown?
+## 2. What is cloning in Git??
+
+Answer:
+
+"cloning" refers to the process of creating a copy of a Git repository from a remote repository. When you clone a repository, you effectively create a local copy of the entire project, including all the files, commit history, and branches, on your own computer. This copy allows you to work with the code and history locally, making it easier to contribute to or collaborate on a project.
+
+##  3. What is the command to track and stage files??
+
+Answer: 
+
+    git add file
+    
+    git add .
+
+
+## 4. What is the command to take a snapshot of your changed files? 
 
 Answer:
 
-Markdown is often used for creating documentation, notes, web content, and other text-based documents.
-
-##  3. What symbol will create a heading in Markdown?
-
-Answer: #
-    1. One
-    2. Six
+git commit -m "Your commit message"
 
 
-## 4. When making text bold or italicized for emphasis, it is best practice to use which symbol? 
-
-Answer ** / *
-
-## 5. How do you create a link with Markdown?
+## 5. What is the command to send your changed files to Github?
 
 Answer:
-[Link Text](URL)
-[ Link Text ] ( URL)
 
-
-## 6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
-
-Answer * / + /-
+git push origin main
