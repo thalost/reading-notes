@@ -14,7 +14,7 @@ _Reading Notes_
 
 # Table of Contents
 
-+ [Class102](102.md)
+##### Class 102
 + [Learning Markdown](https://github.com/thalost/reading-notes/blob/main/102-notes/Learning_Markdown.md)
 + [The Coders Computer](https://github.com/thalost/reading-notes/blob/main/102-notes/The_Coders_Computer.md)
 + [Revisions and the Cloud](https://github.com/thalost/reading-notes/blob/main/102-notes/Revisions_and_the_Cloud.md)
@@ -24,6 +24,8 @@ _Reading Notes_
 + [Programming with JavaScript](https://github.com/thalost/reading-notes/blob/main/102-notes/Programming_with_JavaScript.md)
 + [Operators and Loops](https://github.com/thalost/reading-notes/blob/main/102-notes/Operators_and_Loops.md)
 
+
+##### Class 201
 
 
 _“A new idea comes suddenly and in a rather intuitive way, but intuition is nothing but the outcome of earlier intellectual experience.”_
