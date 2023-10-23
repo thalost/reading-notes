@@ -23,7 +23,9 @@ _Reading Notes_
 + [Operators and Loops](https://github.com/thalost/reading-notes/blob/main/102-notes/Operators_and_Loops.md)
 
 
-##### Class 201
+## Class 201 - Foundations of Software Development
+## Class 301 - Intermediate Software Development
+## Class 401 - Advanced Software Development
 
 
 _“A new idea comes suddenly and in a rather intuitive way, but intuition is nothing but the outcome of earlier intellectual experience.”_
