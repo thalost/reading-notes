@@ -108,7 +108,7 @@ Both article and section are semantic HTML elements introduced in HTML5 to help 
 
 Article Element:
 
-Purpose: Represents a self-contained composition in a document, page, application, or site. This means that the content inside an <article> is independent and can make sense on its own, outside of its context. If you were to syndicate or republish it elsewhere, it would still retain its meaning.
+Purpose: Represents a self-contained composition in a document, page, application, or site. This means that the content inside an article> is independent and can make sense on its own, outside of its context. If you were to syndicate or republish it elsewhere, it would still retain its meaning.
 Examples: Blog posts, news stories, forum posts, or comments.
 
 4. What Elements does a “typical” website include?
@@ -147,7 +147,7 @@ How can a website help me reach my goals?
 
 #### Semantics.
 
-1. Why should you use an <h1> element over a <span> element to display a top level heading?
+1. Why should you use an h1> element over a span> element to display a top level heading?
 
 Most browser's user agent stylesheet will style an h1 with a large font size to make it look like a heading
 
