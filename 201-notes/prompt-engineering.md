@@ -1,4 +1,4 @@
-# Sure, here are the top difficulties of being a system admin for an enterprise company.
+
 
 ### **Complexity**
 
